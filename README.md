@@ -10,7 +10,7 @@ User Login:
 
 Users input their credentials (email/username and password).
 The system validates credentials against the database.
-Session Management:
+Session Management: 
 
 After successful login, sessions or tokens (e.g., JWT) are generated for maintaining user authentication.
 Security Measures:
