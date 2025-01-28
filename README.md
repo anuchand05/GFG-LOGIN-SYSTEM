@@ -22,7 +22,7 @@ Database Integration:
 User details are stored in a database (e.g., MySQL, MongoDB).
 Frontend Interface:
 
-User-friendly forms for login and registration, built with HTML, CSS, and JavaScript.
+User-friendly forms for login  and registration, built with HTML, CSS, and JavaScript.
 Backend Logic:
 
 Backend frameworks like Node.js, Flask, or Django handle routing, validation, and database interactions.
