@@ -2,7 +2,7 @@
 A GFG Login System typically refers to a login and registration system implemented as part of a coding project or tutorial, often inspired by GeeksforGeeks (GFG) examples. This system allows users to create an account, log in securely, and manage authentication features. Below is a brief overview:
 
 Key Features
-User Registration:
+User  Registration:
 
 Users provide details like username, email,  and password.
 Passwords are encrypted using hashing algorithms like bcrypt.
