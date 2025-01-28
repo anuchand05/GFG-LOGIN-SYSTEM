@@ -5,7 +5,7 @@ Key Features
 User  Registration:
 
 Users provide details like username, email,  and password.
-Passwords are encrypted using hashing algorithms like bcrypt.
+Passwords are encrypted using  hashing algorithms like bcrypt.
 User Login:
 
 Users input their credentials (email/username and password).
