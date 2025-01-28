@@ -4,7 +4,7 @@ A GFG Login System typically refers to a login and registration system implement
 Key Features
 User  Registration:
 
-Users provide details  like username, email,  and password.
+Users  provide details  like username, email,  and password.
 Passwords are encrypted using  hashing algorithms like bcrypt.
 User Login:
 
