@@ -8,7 +8,7 @@ Users  provide details  like username, email,  and password.
 Passwords are encrypted using  hashing algorithms like bcrypt.
 User Login:
 
-Users input their credentials  (email/username and password).
+Users input their credentials (email/username and password).
 The system validates credentials against the database.
 Session Management: 
 
