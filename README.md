@@ -19,7 +19,7 @@ Password hashing for secure storage.
 Validation checks to prevent SQL injection and XSS attacks.
 Database Integration:
 
-User details are stored  in a database (e.g., MySQL, MongoDB).
+User details are stored  in a database (e.g., MySQL, MongoDB). 
 Frontend Interface:
 
 User-friendly forms for login  and registration, built with HTML, CSS, and JavaScript.
